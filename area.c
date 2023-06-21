@@ -12,6 +12,7 @@ int main (){
   printf ("Trapezio %.3f\n", (((A+B)*C)/2));
   printf ("Quadrado %.3f\n", (B*B));
   printf ("Retângulo %.3f\n", (A*B));
+return 0;
 }
 
 
